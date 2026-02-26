@@ -1,0 +1,7 @@
+com/todoapp/todoplanner/model/Priority.class
+com/todoapp/todoplanner/model/Status.class
+com/todoapp/todoplanner/service/TaskService.class
+com/todoapp/todoplanner/TodoPlannerApplication.class
+com/todoapp/todoplanner/repository/TaskRepository.class
+com/todoapp/todoplanner/model/Task.class
+com/todoapp/todoplanner/controller/TaskController.class

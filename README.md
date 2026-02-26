@@ -78,4 +78,4 @@ This app follows the **Layered Architecture**:
 4.  **Controller (`com.todoapp.todoplanner.controller`)**: Manages HTTP requests (REST API).
 
 ---
-Developed with ❤️ by Antigravity
+Developed with ❤️ by Chaitanya using the help of Antigravity
